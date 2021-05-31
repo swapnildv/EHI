@@ -148,6 +148,7 @@ export class Update extends Component {
             />{' '}
             Active
             <input
+            className="left-margin"
               type="radio"
               name="status"
               onChange={this.onChangeStatusInActive}

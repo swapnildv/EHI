@@ -85,7 +85,7 @@ export class Contact extends Component {
 
                     <button
                       onClick={() => this.onContactDelete(contact.id)}
-                      className="btn btn-danger"
+                      className="btn btn-danger left-margin"
                     >
                       Delete
                     </button>

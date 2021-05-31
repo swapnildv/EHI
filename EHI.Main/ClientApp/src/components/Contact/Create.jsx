@@ -129,6 +129,7 @@ export class Create extends Component {
             />{' '}
             Active
             <input
+            className="left-margin"
               type="radio"
               value={this.state.status}
               name="status"
