@@ -1,1 +1,1 @@
-web: dotnet exec ./AWSElasticBeanstalkCICDApp.dll --urls http://0.0.0.0:5000/
+web: dotnet exec ./EHI.dll --urls http://0.0.0.0:5000/
