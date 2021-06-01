@@ -48,10 +48,10 @@ And to run the application go to EHI.MAIN directory and run following command:
 dotnet run
 ```
 ## CI-CD
-
-## Contributing
+![Example screenshot](./img/CodePipeline.png)
 
 ## Room for Improvement
+- No-SQL database can be integrated for higher availaibility and scalability
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
