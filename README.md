@@ -9,11 +9,9 @@ Live demo [_here_](http://ehi-dev.us-east-1.elasticbeanstalk.com)
 * [Folder Structure](#folder-Structure)
 * [Installation](#installation)
 * [CI/CD](#ci-cd)
-* [Screenshots](#screenshots)
 * [Room for Improvement](#room-for-improvement)
-* [Contact](#contact)
 * [Contributing](#contributing)
-* [Contact](#contributing)
+* [Contact](#contact)
 
 ## General Information
 - EHI is production ready application to maintain contacts .
